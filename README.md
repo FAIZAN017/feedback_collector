@@ -1,3 +1,7 @@
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
 # Experience Evaluator
 
 An intelligent feedback collection platform that uses Google Gemini AI to instantly generate forms and summarize user responses. Built with React and powered by a Supabase cloud database.
